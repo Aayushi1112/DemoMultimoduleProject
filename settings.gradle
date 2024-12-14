@@ -1,0 +1,3 @@
+rootProject.name = 'MultiModuleProject'
+include 'common-library','core-service', 'api-service', 'web-client'
+
